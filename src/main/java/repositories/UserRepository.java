@@ -5,7 +5,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
 
-public interface UserRepositorie extends JpaRepository<User, Long> { // Aqui fica o repositório do Usuario
+public interface UserRepository extends JpaRepository<User, Long> { // Aqui fica o repositório do Usuario
                                                                      // Aqui o JPA recebe dois tipos de tabelas
                                                                      // User da classe User,package user do domain
                                                                      // recebe o tipo Long por conta que declaramos o ID do tipo long na classe User
