@@ -1,4 +1,4 @@
-# APIFinanceira
+# API Financeira
 
 Projeto desenvolvido em Java com Spring Boot, com foco em boas práticas de arquitetura de software, versionamento com Git e organização em camadas.
 
